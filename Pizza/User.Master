@@ -1,0 +1,44 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="User.Master.vb" Inherits="Pizza.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="plugins/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+
+    <link rel="stylesheet" href="Style.css"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="image" style="height: 114px; width:100%; margin-bottom: 0px;">
+    <center ><img src="image/logo.png"/></center>
+    </div>
+   <center ><div class="menu-bar"style="width:100%; margin-top:0px;">
+                 <ul style="color: #C5BCBC">
+                    <li><a href="home.aspx" style="color: #FFFFFF">Home</a></li>
+                    <li><a href="Pizza.aspx" style="color: #FFFFFF">Pizza</a></li>
+                    <li><a href="Meals.aspx" style="color: #FFFFFF">Meals</a></li>
+                    <li><a href="Drinks.aspx" style="color: #FFFFFF">Drinks</a></li>
+                    <li><a href="About-us.aspx" style="color: #FFFFFF">About Us</a></li>
+
+                    <%If Session("user_logged") = "" Then%>
+                        <li><a href="User-Login.aspx" style="color: #FFFFFF">Login</a></li>
+                    <%Else%>
+                        <li><a href="logout.aspx" style="color:#FFFFFF">Logout</a></li>
+                    <%End If%>
+                    
+                </ul>
+    </div> </center> 
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+           
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
+<script src="plugins/jquery3.min.js" type="text/javascript"></script>
+<script src="plugins/dist/js/bootstrap.min.js" type="text/javascript"></script>

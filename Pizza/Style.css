@@ -1,0 +1,22 @@
+﻿
+.menu-bar
+{
+    height:45px;
+    width:100%;
+    background-color:Red;
+    margin-top: 0px;
+}
+.menu-bar li
+{
+    display:inline;
+    font-size:35px;
+}
+.menu-bar a 
+{
+    text-decoration:none;
+    padding:10px;
+}
+.image
+{
+    background-color:Black;    
+    }

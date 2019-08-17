@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\ASP.NET\Pizza\Pizza\bin\Pizza.dll
+C:\Users\Admin\Desktop\ASP.NET\Pizza\Pizza\bin\Pizza.pdb
+C:\Users\Admin\Desktop\ASP.NET\Pizza\Pizza\bin\Pizza.xml
+C:\Users\Admin\Desktop\ASP.NET\Pizza\Pizza\obj\Debug\Pizza.Resources.resources
+C:\Users\Admin\Desktop\ASP.NET\Pizza\Pizza\obj\Debug\Pizza.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ASP.NET\Pizza\Pizza\obj\Debug\Pizza.dll
+C:\Users\Admin\Desktop\ASP.NET\Pizza\Pizza\obj\Debug\Pizza.xml
+C:\Users\Admin\Desktop\ASP.NET\Pizza\Pizza\obj\Debug\Pizza.pdb
+C:\Users\Admin\Desktop\ASP.NET PROJECT\Pizza\Pizza\bin\Pizza.dll
+C:\Users\Admin\Desktop\ASP.NET PROJECT\Pizza\Pizza\bin\Pizza.pdb
+C:\Users\Admin\Desktop\ASP.NET PROJECT\Pizza\Pizza\bin\Pizza.xml
+C:\Users\Admin\Desktop\ASP.NET PROJECT\Pizza\Pizza\obj\Debug\Pizza.Resources.resources
+C:\Users\Admin\Desktop\ASP.NET PROJECT\Pizza\Pizza\obj\Debug\Pizza.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ASP.NET PROJECT\Pizza\Pizza\obj\Debug\Pizza.dll
+C:\Users\Admin\Desktop\ASP.NET PROJECT\Pizza\Pizza\obj\Debug\Pizza.xml
+C:\Users\Admin\Desktop\ASP.NET PROJECT\Pizza\Pizza\obj\Debug\Pizza.pdb
+F:\MY STUDY\BCA\SEM5\ASP.NET PROJECT\Pizza\Pizza\bin\Pizza.dll
+F:\MY STUDY\BCA\SEM5\ASP.NET PROJECT\Pizza\Pizza\bin\Pizza.pdb
+F:\MY STUDY\BCA\SEM5\ASP.NET PROJECT\Pizza\Pizza\bin\Pizza.xml
+F:\MY STUDY\BCA\SEM5\ASP.NET PROJECT\Pizza\Pizza\obj\Debug\Pizza.Resources.resources
+F:\MY STUDY\BCA\SEM5\ASP.NET PROJECT\Pizza\Pizza\obj\Debug\Pizza.vbproj.GenerateResource.Cache
+F:\MY STUDY\BCA\SEM5\ASP.NET PROJECT\Pizza\Pizza\obj\Debug\Pizza.dll
+F:\MY STUDY\BCA\SEM5\ASP.NET PROJECT\Pizza\Pizza\obj\Debug\Pizza.xml
+F:\MY STUDY\BCA\SEM5\ASP.NET PROJECT\Pizza\Pizza\obj\Debug\Pizza.pdb
